@@ -46,7 +46,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>webApp-Jenkins-CI/CD</finalName>
+        <finalName>webApp-Jenkins-CI_CD</finalName>
     </build>
 
 </project>
